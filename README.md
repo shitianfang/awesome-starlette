@@ -14,6 +14,7 @@ About A curated list of awesome Starlette resources and extensions
     - [Other](#other)
 - [Projects](#projects)
     - [Boilerplate](#boilerplate)
+- [Groups](#groups)
 
 
 ## Extensions
@@ -53,3 +54,7 @@ About A curated list of awesome Starlette resources and extensions
 ## Projects
 ### Boilerplate
 - [boilerplate](https://github.com/accent-starlette/boilerplate) - Empty boilerplate project for Starlette with docker, auth, css and more.
+
+## Groups
+### 中文交流群
+- [starlette中文小组] - 加v DeepRedTech拉群
