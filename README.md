@@ -28,6 +28,7 @@ About A curated list of awesome Starlette resources and extensions
 - [starlette-auth](https://github.com/accent-starlette/starlette-auth) - provides a SQLAlchemy backend for user authentication within starlette.
 - [Authlib](https://github.com/lepture/Authlib) - The ultimate Python library in building OAuth and OpenID Connect clients and servers. Check out how to integrate with Starlette.
 - [Imia](https://github.com/alex-oleshkevich/imia) - An authentication framework for Starlette with pluggable authenticators and login/logout flow.
+- [Starlette-Login](https://github.com/jockerz/Starlette-Login) - User session management for Starlette. Very much inspired by [Flask-Login](https://github.com/maxcountryman/flask-login)
  
 ### Admin
 - [starlette-admin](https://github.com/accent-starlette/starlette-admin) - Simple, easy to manage admin site for crud operations. Includes all templates required for starlette-auth styled in this theme.
